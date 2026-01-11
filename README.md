@@ -1,4 +1,4 @@
-# 🛡️ LabelSafe AI
+#  LabelSafe AI
 
 > **Scan. Understand. Decide.** — Your AI-powered food safety companion.
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 **70% of consumers don't understand food labels.** Complex ingredient names, hidden additives, and misleading marketing make it nearly impossible for people to make informed food choices. This leads to:
 
@@ -19,48 +19,48 @@
 
 ---
 
-## 💡 Our Solution
+##  Our Solution
 
 **LabelSafe AI** uses Google's Gemini AI to instantly analyze product labels and provide clear, actionable health insights. Simply scan any food, cosmetic, or medicine label and get:
 
-- ✅ **Safety Score (0-100)** — Instant health rating
-- 🚦 **Color-Coded Badges** — Safe (Green), Caution (Yellow), Avoid (Red)
-- 🔬 **Ingredient Breakdown** — What each ingredient does and its health impact
-- 📊 **Composition Analysis** — Sugar, fat, and additive percentages
-- 💡 **Smart Recommendations** — Personalized consume/avoid advice
+-  **Safety Score (0-100)** — Instant health rating
+-  **Color-Coded Badges** — Safe (Green), Caution (Yellow), Avoid (Red)
+-  **Ingredient Breakdown** — What each ingredient does and its health impact
+-  **Composition Analysis** — Sugar, fat, and additive percentages
+-  **Smart Recommendations** — Personalized consume/avoid advice
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 📸 Smart Label Scanning
+###  Smart Label Scanning
 - Real-time camera scanning with auto-detection
 - Gallery upload support for existing images
 - Works with food, cosmetics, and medicine labels
 
-### 🤖 AI-Powered Analysis
+###  AI-Powered Analysis
 - Powered by **Google Gemini 1.5 Flash**
 - Analyzes ingredients against EU/WHO safety standards
 - Detects harmful additives, artificial colors, excessive sugar
 - Provides health impact explanations for each ingredient
 
-### 📊 Visual Health Dashboard
+###  Visual Health Dashboard
 - Circular gauge showing safety score
 - Composition breakdown (Risk, Processed, Sugar, Fats)
 - Quick stats for safe/caution/avoid ingredients count
 
-### 📝 Detailed Ingredient View
+### Detailed Ingredient View
 - Each ingredient rated individually
 - Technical names (E-numbers) displayed
 - Health impact explanation in plain language
 - Function category (Preservative, Sweetener, Color, etc.)
 
-### 📜 Scan History
+###  Scan History
 - All previous scans saved locally
 - Quick access to past analyses
 - Track your food safety journey
 
-### 🌙 Modern UI/UX
+###  Modern UI/UX
 - Beautiful glassmorphic design
 - Smooth animations throughout
 - Dark/Light mode support
@@ -68,7 +68,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -83,7 +83,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Flutter SDK 3.1+
@@ -124,7 +124,7 @@ flutter build apk --release
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 lib/
@@ -148,7 +148,7 @@ lib/
 
 ---
 
-## 🔬 How It Works
+## How It Works
 
 1. **Capture** — User scans a product label using camera or uploads from gallery
 
@@ -168,7 +168,7 @@ lib/
 
 ---
 
-## 📊 Scoring Algorithm
+##  Scoring Algorithm
 
 | Factor | Weight | Criteria |
 |--------|--------|----------|
@@ -183,7 +183,7 @@ lib/
 
 ---
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 - **Clarity First** — Complex data simplified into visual indicators
 - **Trust Through Transparency** — Show exactly why each rating is given
@@ -192,7 +192,7 @@ lib/
 
 ---
 
-## 🔮 Future Roadmap
+## Future Roadmap
 
 - [ ] Barcode scanning for instant product lookup
 - [ ] Personalized health profiles (allergies, dietary restrictions)
@@ -204,19 +204,8 @@ lib/
 
 ---
 
-## 👥 Team
 
-**LabelSafe AI** — Built with ❤️ for healthier choices
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Google Gemini AI for powering our analysis
 - Flutter team for the amazing framework
